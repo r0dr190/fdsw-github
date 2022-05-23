@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/code.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -18,6 +18,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+#Acerca-de-mi a {
+  text-decoration: none;
 }
 
 /* Contacto */
