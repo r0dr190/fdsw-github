@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+body a {
+  text-decoration: none;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -18,14 +22,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-#Mis-trabajos a {
-  text-decoration: none;
-}
-
-#Acerca-de-mi a {
-  text-decoration: none;
 }
 
 /* Contacto */
